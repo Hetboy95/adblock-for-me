@@ -1,0 +1,31 @@
+uBlock 
+! 2021-10-13 https://hhtq.tv
+hhtq.tv##[src="/_nuxt/img/123B-desktop.21be19b.gif"]
+hhtq.tv##[src="/_nuxt/img/Wheel_of_Fortune_desktop.16ded7b.gif"]
+hhtq.tv##[src="/_nuxt/img/ee88-desktop.bcdce52.gif"]
+hhtq.tv##[src="/_nuxt/img/Banner_lixi-desktop.0a3a905.gif"]
+hhtq.tv##.w-100 > .justify-content-center.d-flex
+
+! 2021-10-18 http://nhattruyenvip.com
+nhattruyenvip.com##.mrt5.container > .mrb5.mrt5.text-center
+nhattruyenvip.com##.mrt5.container > .row
+
+! 2021-10-21 https://metruyenchu.com
+metruyenchu.com##.fz-13.mb-1
+
+! 2021-10-22 https://hhtq.tv
+hhtq.tv##.w-100.my-2.justify-content-center.d-flex.ads-love-u > .align-items-center.flex-column.d-flex
+
+! 2021-11-05 https://biphims.tv
+biphims.tv##[src="https://i.imgur.com/0bZT9sE.gif"]
+biphims.tv###admwrapper > center
+
+! 2021-11-06 https://subnhanh.net
+subnhanh.net##center:nth-of-type(2)
+
+! 2021-11-06 https://xoilac1.com
+xoilac1.com###quangcaopc > .closebtn
+xoilac1.com###dnn_balloon_botright > .closebtn
+
+! 2021-11-12 https://www.hhninja.xyz
+www.hhninja.xyz###catfish
