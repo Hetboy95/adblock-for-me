@@ -1,4 +1,5 @@
-uBlock 
+[uBlock]
+! Title: MeBlock
 ! 2021-10-13 https://hhtq.tv
 hhtq.tv##[src="/_nuxt/img/123B-desktop.21be19b.gif"]
 hhtq.tv##[src="/_nuxt/img/Wheel_of_Fortune_desktop.16ded7b.gif"]
