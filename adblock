@@ -40,4 +40,32 @@ metruyenchu.com##.mb-3.nh-read__alert.text-center
 metruyenchu.com##div.text-center.pt-3:nth-of-type(1)
 metruyenchu.com##div.text-center.pt-3:nth-of-type(2)
 
-
+!---------------Element Hiding--------------
+###banner-top
+###banner_FloatLeft
+###banner_FloatRight
+###bannertop
+###mobileCatfish
+###qcBallonright
+###quangcaomb
+##.adBot
+##.ads-block-warning
+##.ads_area_01
+##.ads_area_03
+##.ads_area_04
+##.boun-media
+##.boun-media1
+##.close-ads
+##.close-ads-player
+##.iosAdsiosAds-layout
+##.jw-cue
+##.leftAdsBanner
+##.midroll-marker
+##.quangcao
+##.show-ads-banner
+##[href^="http://www.sbbanner.com/"]
+##[href^="https://r88.vn/"]
+##[href^="https://zbet.vn/"]
+##[id^="balloonads"]
+##[id^="bn_bottom_fixed_"]
+##div[id^="sponsor-"]
