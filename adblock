@@ -69,4 +69,4 @@ metruyenchu.com##div.text-center.pt-3:nth-of-type(2)
 ##[id^="balloonads"]
 ##[id^="bn_bottom_fixed_"]
 ##div[id^="sponsor-"]
-example.com##img
+example.com$image
