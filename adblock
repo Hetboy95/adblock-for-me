@@ -42,6 +42,18 @@ metruyenchu.com##div.text-center.pt-3:nth-of-type(2)
 ! 2021-11-21 https://www.ssphim.net
 www.ssphim.net##.uniad-zonetype-preload.uniad-flash-wraper.uniad-ad-wraper
 
-##[href^="http://www.sbbanner.com/"]
-##[href^="https://r88.vn/"]
-##[href^="https://zbet.vn/"]
+$popup,third-party,domain=megaurl.in|subnhanh.net|phim1080z.com|motchill.net|bilutivi.net|animehay.tv|hhkungfu.tv|fancoiphim.net
+||phim1080z.com/banner/
+||phim1080z.com/sponsor
+phim1080z.com,fim1080.com###popup-under
+phim1080z.com,fim1080.com##.banner-preload-link
+phim1080z.com,fim1080.com##.popup-link
+phim1080z.com,fim1080.com,mephimnhat.com,mephimmy.com,mephimtrung.com,mephimhanz.com,mephimthai.com##.ff-banner
+vuighe.net,clipanime.com,phim1080z.com,fim1080.com##.player-midpoint-progress
+
+||i.imgur.com^*.gif$image,domain=8bongda.com|bongdatv.net|tva.101vn.com|xemtivingon.com|tvhai.org|vuviphims.com|phimgii.net|hoitruyentranh.com|mythethao.net|yeuphimmoiv.com|weblinhtinh.xyz|megalink.vip|tivi4k.com|bilutvs.net|bilutv.tv|phut91.online|topgamehot.net|fimnhe.net|tiengruoi.link|1tiengruoi.link|blogkienthuc.net|animevietsub.tv|tructiepeuro.live|cakhia3.live|1g30p.link|1h30m.link|bongdahomnay.live|90phuttttt.xyz|cakhia6.tv|hdvietsub.net|tvhaiz.net|bongdahomnay.xyz|tvzingvn.com|weblinhtinh.net|90phutttt.xyz|tvhayx.com|dongphimmoiz.com|haophim.com|vtipster.net|dongphymtv.com|xemtivingon.tv|subnhanh.net
+||subnhanh.net/js/ads_xx.js
+subnhanh.net##.banner-sticky-footer-ad
+tructiepbongda.tv,thuckhuya.live,vkoolz.net,phim7z.tv,360thethao.net,subnhanh.net,dongphymtv.com###overlay
+
+motchill.net,motphjm.net##.mp-adz
