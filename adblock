@@ -41,3 +41,7 @@ metruyenchu.com##div.text-center.pt-3:nth-of-type(2)
 
 ! 2021-11-21 https://www.ssphim.net
 www.ssphim.net##.uniad-zonetype-preload.uniad-flash-wraper.uniad-ad-wraper
+
+##[href^="http://www.sbbanner.com/"]
+##[href^="https://r88.vn/"]
+##[href^="https://zbet.vn/"]
