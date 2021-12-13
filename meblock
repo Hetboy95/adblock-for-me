@@ -45,12 +45,14 @@ xoilac2.com##div.offer:nth-of-type(4)
 xoilac2.com##div.offer:nth-of-type(5)
 xoilac2.com##div.offer:nth-of-type(6)
 xoilac2.com##div.offer:nth-of-type(7)
-xoilac2.com##a.mb-1:nth-of-type(6)
+xoilac2.com##a.mb-1:nth-of-type(2)
+xoilac2.com##a.mb-1:nth-of-type(3)
+xoilac2.com##a.mb-1:nth-of-type(4)
 xoilac2.com##a.mb-1:nth-of-type(5)
+xoilac2.com##a.mb-1:nth-of-type(6)
+xoilac2.com##a.mb-1:nth-of-type(7)
 xoilac2.com##.d-none.d-lg-flex.wrap-heading-box > [href="/img/CUOCCHATTF88"]
 xoilac2.com##.btn-odds.btn-default.btn
-xoilac2.com##a.mb-1:nth-of-type(3)
-xoilac2.com##a.mb-1:nth-of-type(2)
 xoilac2.com##.d-lg-flex.d-none.card-header > .primary
 xoilac2.com##.d-lg-flex.d-none.card-header > .success
 xoilac2.com###menu-sub-menu
