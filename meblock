@@ -7,10 +7,9 @@ hhhkungfu.tv###Adskeeper
 ! 2021-12-30 https://www.reddit.com
 www.reddit.com##._1QwQLdEXq0cZZb7vcte4KK
 
-@@||hydrax.net^$elemhide
-@@||*.**.xyz$domain=hydrax.net
-@@||jpsrv.com^$domain=hydrax.net
-@@||jsdelivr.net^$domain=hydrax.net
-@@||multi.idocdn.com^$domain=hydrax.net
-@@||xiao.smamuhh1metro.com$domain=hydrax.net
-@@||iamcdn.net/players/*ads.js$script,domain=hydrax.net|playhydrax.com
+hydrax.net##+js(aopr, isClick)
+redirect-ads.com#@#+js(no-setInterval-if, over)
+redirect-ads.com#@#div#over:remove()
+redirect-ads.com#@#+js(no-setTimeout-if, over)
+redirect-ads.com#@#+js(window.open-defuser, /^/, 2)
+*$popup,3p,domain=redirect-ads.com,badfilter
