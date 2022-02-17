@@ -4,19 +4,13 @@ www.hhkungfu.tv##[href="https://aowpri.com/"]
 hhhkungfu.tv###aksbanner
 hhhkungfu.tv###Adskeeper
 
-! 2021-12-29 http://nhattruyenvip.com
-nhattruyenvip.com##.mrb5.text-center.container
-nhattruyenvip.com##.mrt5.container > .mrb5.mrt5.text-center
-nhattruyenvip.com##.mrt5.container > .row
-
 ! 2021-12-30 https://www.reddit.com
 www.reddit.com##._1QwQLdEXq0cZZb7vcte4KK
 
-! 2022-01-01 https://metruyenchu.com
-metruyenchu.com##div.text-center.pt-3:nth-of-type(2)
-metruyenchu.com##div.text-center.pt-3:nth-of-type(1)
-
-! 2022-02-05 https://www.hhninja.xyz
-www.hhninja.xyz###catfish
-||lh3.googleusercontent.com/-RQRhGycYhcI/Ycm7pxwEoGI/AAAAAAAAAlg/rQ1MD5DbKv0p68z7bkmtED6-0EiIdeEXgCNcBGAsYHQ/s0/banner.gif$image
-www.hhninja.xyz##.closecf
+@@||hydrax.net^$elemhide
+@@||*.**.xyz$domain=hydrax.net
+@@||jpsrv.com^$domain=hydrax.net
+@@||jsdelivr.net^$domain=hydrax.net
+@@||multi.idocdn.com^$domain=hydrax.net
+@@||xiao.smamuhh1metro.com$domain=hydrax.net
+@@||iamcdn.net/players/*ads.js$script,domain=hydrax.net|playhydrax.com
