@@ -20,8 +20,14 @@ www.youtube.com###masthead-ad
 ! 2022-02-22 https://subnhanh.net
 ||i.imgur.com/lgfyvo2.jpg$image
 
-! 2022-02-24 https://zingvntv.com
-||pic1025.com/pic/728-90.gif$image
-
 ! 2022-02-28 https://dongphymtv.com
 ||i.imgur.com/8uhL2vN.gif$image
+
+ 2022-03-01 https://zingvntv.com
+zingvntv.com##.sda-preload-popup > div
+zingvntv.com##.sda-preload-popup-overlay
+||i.imgur.com/kam9kcB.gif$image
+||pic1025.com/pic/320-50.gif$image
+||i.imgur.com/c5c0tBD.gif$image
+zingvntv.com##.sda-catfish.sda-wrapper > .sda-close
+zingvntv.com##.sda-preload-popup
